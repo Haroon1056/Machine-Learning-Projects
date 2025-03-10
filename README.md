@@ -5,8 +5,6 @@ This repository contains various Machine Learning projects categorized into diff
 
 Machine-Learning-Projects/
 
-Machine-Learning-Projects/
-
 │-- Regression/
 
 │   │-- Project_Files (code, dataset, notebook, etc.)
