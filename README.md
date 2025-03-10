@@ -4,12 +4,21 @@ This repository contains various Machine Learning projects categorized into diff
 ## Project Structure
 
 Machine-Learning-Projects/
+
+Machine-Learning-Projects/
+
 │-- Regression/
+
 │   │-- Project_Files (code, dataset, notebook, etc.)
+
 │-- Classification/
+
 │   │-- Project_Files (code, dataset, notebook, etc.)
+
 │-- Clustering/
+
 │   │-- Project_Files (code, dataset, notebook, etc.)
+
 │-- README.md
 
 ## Topics Covered
