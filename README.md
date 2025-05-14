@@ -3,9 +3,9 @@ This repository contains various Machine Learning projects categorized into diff
 
 ## Project Structure
 
-Machine-Learning-Projects/
+Machine-Learning-Projects
 
-│-- Regression/
+│-- Regression
 
 │   │-- Project_Files (code, dataset, notebook, etc.)
 
