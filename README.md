@@ -9,11 +9,11 @@ Machine-Learning-Projects
 
 │   │-- Project_Files (code, dataset, notebook, etc.)
 
-│-- Classification/
+│-- Classification
 
 │   │-- Project_Files (code, dataset, notebook, etc.)
 
-│-- Clustering/
+│-- Clustering
 
 │   │-- Project_Files (code, dataset, notebook, etc.)
 
